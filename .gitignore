@@ -2,5 +2,6 @@
 *.so
 *.dylib
 *.dll
+*.src.rock
 bestline-test
 history.txt
