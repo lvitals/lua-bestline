@@ -1,0 +1,6 @@
+*.o
+*.so
+*.dylib
+*.dll
+bestline-test
+history.txt
